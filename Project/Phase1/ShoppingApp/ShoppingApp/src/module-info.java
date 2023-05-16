@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author noobscorpio
+ *
+ */
+module ShoppingApp {
+}
